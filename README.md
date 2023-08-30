@@ -8,7 +8,7 @@ The speed of these transactions gave your firm a competitive advantage early on.
 
 # Establish a Baseline Performance
 
-# Generating Trading Signals
+# Generating Trading Signals 
 ![Screenshot (36)](https://github.com/shahp630/Machine-Learning-Trading-Bot/assets/133065460/a1f23a6f-bd23-43ef-a85e-cc3bc7a9ed4d)
 
 # Plotting Strategy Returns
