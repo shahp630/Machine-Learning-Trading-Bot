@@ -6,7 +6,7 @@ In this Challenge, you’ll assume the role of a financial advisor at one of the
 
 The speed of these transactions gave your firm a competitive advantage early on. But, people still need to specifically program these systems, which limits their ability to adapt to new data. You’re thus planning to improve the existing algorithmic trading systems and maintain the firm’s competitive advantage in the market. To do so, you’ll enhance the existing trading signals with machine learning algorithms that can adapt to new data. 
 
-# Establish a Baseline Performance
+# Establishing a Baseline Performance
 
 # Generating Trading Signals 
 ![Screenshot (36)](https://github.com/shahp630/Machine-Learning-Trading-Bot/assets/133065460/a1f23a6f-bd23-43ef-a85e-cc3bc7a9ed4d)
