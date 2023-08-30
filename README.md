@@ -20,12 +20,18 @@ The speed of these transactions gave your firm a competitive advantage early on.
 # SVC Model Predictions
 ![Screenshot (39)](https://github.com/shahp630/Machine-Learning-Trading-Bot/assets/133065460/9888877b-0f36-4b14-b6e2-ec8a2dcf82e4)
 
+The classification report shows that at a "signal of 1", the SVC model predictions are only at 56% accuracy. Even with a recall of 100, the model cannot be trusted to accurately predict.
+
 # Predicted, Actual Returns, and Strategy Returns
 ![Screenshot (40)](https://github.com/shahp630/Machine-Learning-Trading-Bot/assets/133065460/0fb5c0aa-c4dc-46f3-80e6-45961e92aaf9)
+
+The predictions DataFrame showed that over time, the difference between the Actual and Strategy Returns decreased, meaning that over time the Model's accuracy improved over time.
 
 # Cumulative Return Plot
 ![Screenshot (41)](https://github.com/shahp630/Machine-Learning-Trading-Bot/assets/133065460/62c7b9b6-adb2-4854-bece-2af7fc27fbc7)
 
 The cumulative return plot shows the actual returns vs. the strategy returns. Although it was a bit surprising, the actual returns exactly matched the strategy returns. This proved that our testing and training DataSets and Model Predictions were extremely accurate and can be trusted.
+
+# Tuning the Baseline Trading Algorithm
 
 
