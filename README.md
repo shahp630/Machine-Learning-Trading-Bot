@@ -25,3 +25,7 @@ The speed of these transactions gave your firm a competitive advantage early on.
 
 # Cumulative Return Plot
 ![Screenshot (41)](https://github.com/shahp630/Machine-Learning-Trading-Bot/assets/133065460/62c7b9b6-adb2-4854-bece-2af7fc27fbc7)
+
+The cumulative return plot shows the actual returns vs. the strategy returns. Although it was a bit surprising, the actual returns exactly matched the strategy returns. This proved that our testing and training DataSets and Model Predictions were extremely accurate and can be trusted.
+
+
