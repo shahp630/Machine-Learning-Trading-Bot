@@ -34,8 +34,13 @@ The cumulative return plot shows the actual returns vs. the strategy returns. Al
 
 # Evaluating a New Machine Learning Classifier
 
+# Import a New Classifier: LogisticRegresion
 ![Screenshot (42)](https://github.com/shahp630/Machine-Learning-Trading-Bot/assets/133065460/c45356f8-3b19-4011-b138-6b4e88f4443e)
+
+# Classification Report
 ![Screenshot (43)](https://github.com/shahp630/Machine-Learning-Trading-Bot/assets/133065460/54b8d4aa-6824-45c6-8a2a-0206b7cc6bd0)
+
+The classification report shows a low-score in precision and recall 
 ![Screenshot (44)](https://github.com/shahp630/Machine-Learning-Trading-Bot/assets/133065460/ee8291e7-ed82-4395-9e3d-09b9520bc360)
 ![Screenshot (45)](https://github.com/shahp630/Machine-Learning-Trading-Bot/assets/133065460/a45c6f29-e2e9-4569-b42f-7a5a28d1cc17)
 
