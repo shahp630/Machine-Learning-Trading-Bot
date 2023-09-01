@@ -42,7 +42,10 @@ The cumulative return plot shows the actual returns vs. the strategy returns. Al
 
 The classification report shows a low-score in precision and recall 
 ![Screenshot (44)](https://github.com/shahp630/Machine-Learning-Trading-Bot/assets/133065460/ee8291e7-ed82-4395-9e3d-09b9520bc360)
+
 ![Screenshot (45)](https://github.com/shahp630/Machine-Learning-Trading-Bot/assets/133065460/a45c6f29-e2e9-4569-b42f-7a5a28d1cc17)
 
+# Results
 
+After running our simulations/predictions, our data shows that from a period of about 2016-late 2017, our Actual Returns and LR Strategy Returns are identical, meaning that either financial strategy would produce the same reults. After this point, the Actual Returns actually outperformed our LR Strategy returns until about mid-2018. From this point outwords, except for late 2020, the LR Strategy Returns heavily outperformed our Actual Returns, showing that our Strategy Returns produce a much higher return in the longrun. 
 
